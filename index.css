@@ -1,0 +1,158 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+
+
+
+.navbar{
+	background: linear-gradient(to right, #f4dcd8 0%, #e68a75 100%);
+}
+
+
+/*HERO*/
+
+#hero{
+	background: black;
+}
+
+#hero-img {
+  background:rgba(0, 0, 0, 0.5);
+}
+
+#hero h1{
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+  color: #f4dcd8;
+}
+
+#hero h2{
+	font-family: "Poppins", sans-serif;
+  	font-weight: 700;
+  	font-style: normal;
+  	color: #e68a75;
+}
+
+#hero span{
+	color: #881c2b;
+}
+
+#hero p{
+	font-family: "Poppins", sans-serif;
+  	font-weight: 900;
+	color: #f4dcd8;
+}
+
+#hero a{
+
+  background-color: #e68a75;
+    color: #f4dcd8; 
+    border: 2px solid #f4dcd8;
+    border-radius: 20px;
+    padding: 10px;
+    text-decoration: none;
+    font-family: "Sen", sans-serif;
+    font-weight: 600;
+    font-size: 1rem;
+
+}
+
+/*END OF HERO*/
+
+
+
+/*Carousel*/
+
+#carousel{
+	background: #f4dcd8;
+}
+.carousel-control-prev-icon{
+	background-color: #e68a75;
+}
+
+.carousel-control-next-icon{
+	background-color: #e68a75;	
+}
+
+#carousel h1{
+	font-family: "Poppins", sans-serif;
+  	font-weight: 900;
+
+}
+
+#carousel h1 span{
+	font-family: "Poppins", sans-serif;
+  	font-weight: 900;
+  	color: #881c2b;
+}
+
+#carousel h4{
+	font-family: "Poppins", sans-serif;
+  	font-weight: 700;
+  	
+}
+
+#carousel h4 span{
+	font-family: "Poppins", sans-serif;
+  	font-weight: 700;
+  	color: #e68a75;
+}
+
+
+/*End of Carousel*/
+
+
+/*Cards*/
+.card{
+	border: 2px solid #f4dcd8;
+    border-radius: 20px;
+    background-color: #e68a75;
+    padding: 10px;
+}
+
+#cards h1{
+	font-family: "Poppins", sans-serif;
+  	font-weight: 900;
+	color: #e68a75;
+}
+
+.card-title{
+	font-family: "Poppins", sans-serif;
+  	font-weight: 800;
+	
+}
+
+.card-text{
+	font-family: "Poppins", sans-serif;
+  	font-weight: 400;
+}
+
+.card-body{
+	background-color: #f4dcd8;
+}
+
+#card small{
+	color: #424c55;
+}
+
+/*End of Cards*/
+
+
+/*Footer*/
+
+#footer{
+	font-family: "Poppins", sans-serif;
+  	font-weight: 600;
+	text-align: center;
+    padding: 10px;
+    background: linear-gradient(to right, #f4dcd8 0%, #e68a75 100%);
+    color: black;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
+
+/*End of Footer*/
+
